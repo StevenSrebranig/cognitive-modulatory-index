@@ -1,0 +1,48 @@
+# Cognitive-Modulatory Index (CMI)
+
+This repository supports future **empirical validation, replication studies, and sensitivity analysis**
+for the **Cognitive-Modulatory Index (CMI)**.
+
+CMI is a theory-driven framework for evaluating how symbolic texts behave under controlled
+modulation (Lucid/Dream cycles). It is presented as a **falsifiable research hypothesis**, not
+a validated measurement instrument or software tool.
+
+## 📄 Primary Reference
+
+The theoretical framework is published at Zenodo:
+
+**Srebranig, Steven F.**  
+*The Cognitive-Modulatory Index (CMI): A HuSCoT Module for Quantifying Mindprint Maturity in Symbolic and Cognitive Systems*  
+Zenodo. DOI: https://doi.org/10.5281/zenodo.17924893
+
+Please cite the Zenodo paper when referencing CMI.
+
+## 🚧 Current Status
+
+- No reference implementation is provided at this time
+- Numerical examples in the paper are illustrative placeholders
+- Validation studies described in Section 9.6 of the paper are forthcoming
+- This repository currently contains documentation only
+
+## 🔬 Planned Contents (Non-Binding)
+
+Future additions may include:
+- draft-vs-final corpora used in validation studies
+- replication notebooks
+- sensitivity analyses for component weights
+- null and adversarial control experiments
+
+Any implementation details will remain explicitly non-normative unless stated otherwise.
+
+## ⚠️ Scope Limitations
+
+CMI:
+- is **not** an authorship detector
+- does **not** rank aesthetic quality
+- does **not** replace human editorial judgment
+- should not be used in high-stakes evaluative contexts
+
+## 📜 License
+
+Documentation in this repository is licensed under **CC BY-NC 4.0**, consistent with the Zenodo publication.
+
